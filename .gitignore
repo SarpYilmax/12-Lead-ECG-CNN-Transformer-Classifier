@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pt
+*.png
+training_history.csv
+.ipynb_checkpoints/
+.venv/
